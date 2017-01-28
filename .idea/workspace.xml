@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="11f352cc-72be-4115-a882-76cb4859c4c8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <ignored path="test_tokbox.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,6 +59,7 @@
         <option value="$PROJECT_DIR$/test_tokbox.py" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/app.yaml" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -429,7 +431,13 @@
       <option name="project" value="LOCAL" />
       <updated>1485645458366</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="second deploy">
+      <created>1485645769420</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1485645769420</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -575,7 +583,7 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
       </provider>
